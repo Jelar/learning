@@ -1,2 +1,2 @@
-#myapp this is git...\n
+#myapp this is git.../n
 Learn to use only.
